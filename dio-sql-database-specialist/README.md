@@ -1,3 +1,5 @@
-# dio-sql-database-specialist
+# Desafios e Projetos
 
-Essa pasta contém os desafios de projeto prospostos na formação SQL Database Specialist
+| Projeto | Link |
+|---------|------|
+| Projeto Conceitual E-Commerce | [Ir](/ProjetoConceitualEcommerce/) |
